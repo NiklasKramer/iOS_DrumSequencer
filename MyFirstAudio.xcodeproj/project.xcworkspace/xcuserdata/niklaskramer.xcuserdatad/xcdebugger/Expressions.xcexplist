@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Conductor.setupSequencerTracks():Conductor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Sequence.kickDrum.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.updateSteps(var:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sequencerSteps[index].backgroundColor">
+            </PersistentString>
+            <PersistentString
+               value = "sequencerSteps[index].backgroundColor = UIColor.green">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.activateStep(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "kickPattern">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.selectInstrument(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+            <PersistentString
+               value = "instrumentPatterns[1]">
+            </PersistentString>
+            <PersistentString
+               value = "Sequence(rawValue: sender.tag)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.activateKickStep(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "kickPattern[buttonTag] != 0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Conductor.getKickDrumPattern():Conductor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Sequencer.tracks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ViewController.updateStepProgress():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.stepProgress">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

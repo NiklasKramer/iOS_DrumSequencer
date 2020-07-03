@@ -1,2 +1,2 @@
-# iOS_DrumSequencer
+# iOSDrumSequencer
  
