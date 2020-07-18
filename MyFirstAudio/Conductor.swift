@@ -64,8 +64,8 @@ class Conductor {
         AudioKit.output = mixer
         
         //Compressor Setting
-        compressor.threshold = -10
-        compressor.dryWetMix = 0.2
+        compressor.threshold = -1
+        compressor.dryWetMix = 0.1
         compressor.attackDuration = 0.15
         
         //: loading samples
@@ -162,6 +162,7 @@ class Conductor {
     func updateKickDrumPattern(`var` updatedKickPattern: [Int]){
         kickPattern = updatedKickPattern
         getKickDrumPattern()
+        
     }
     
     func getSnareDrumPattern(){
